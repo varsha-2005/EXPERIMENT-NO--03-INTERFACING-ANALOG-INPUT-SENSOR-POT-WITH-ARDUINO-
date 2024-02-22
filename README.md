@@ -6,10 +6,11 @@ INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 ## DEPARTMENT : AI-DS
 
 
-**AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+AIM:  
+To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
-**COMPONENTS REQUIRED:**
+COMPONENTS REQUIRED:
 1.	10 KΩPOT
 2.	1 KΩ resistor 
 3.	Arduino Uno 
@@ -52,10 +53,10 @@ CIRCUIT DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-**FIGURE -01
-**
+FIGURE -01
 
-**PROCEDURE:**
+
+PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
 2.	Connect the board to your computer via the USB cable.
 3.	If needed, install the drivers.
@@ -66,7 +67,7 @@ CIRCUIT DIAGRAM
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
 
-**PROGRAM** 
+PROGRAM
 ```
 int led=4;
 int sensorpot;
@@ -99,15 +100,15 @@ void loop()
 ```
 
 
-## Seial Monitor
+## Serial Monitor
 
 ![Screenshot 2024-02-22 110703](https://github.com/varsha-2005/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119288183/8a2916aa-7e3a-4a9c-b5ef-721ba31add9b)
 
 
 
-**
-**Simulation output:** 
-**
+
+Simulation output:
+
 
 ![Screenshot 2024-02-22 105942](https://github.com/varsha-2005/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119288183/1bcfc897-fc04-4de6-acfd-12ea6231b539)
 
@@ -121,4 +122,5 @@ void loop()
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+RESULT: 
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
