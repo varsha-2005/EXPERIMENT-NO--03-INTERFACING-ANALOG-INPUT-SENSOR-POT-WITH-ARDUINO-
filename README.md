@@ -112,8 +112,8 @@ void loop()
 **Simulation output:** 
 **
 
+![Screenshot 2024-02-22 105942](https://github.com/varsha-2005/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119288183/1bcfc897-fc04-4de6-acfd-12ea6231b539)
 
-![Screenshot 2024-02-22 103101](https://github.com/varsha-2005/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119288183/c4abf6c6-7da4-4fc7-aca6-281314a8a4cb)
 ![Screenshot 2024-02-22 110058](https://github.com/varsha-2005/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/119288183/32a68a5d-2981-4b06-a1d0-63839fdd45aa)
 
 
